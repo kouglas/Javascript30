@@ -21,7 +21,7 @@ html {
     position: relative;
     line-height: 3rem;
   }
-  h1, p {
+  h1, .intro {
     color: white;
     text-align: center;
   }
